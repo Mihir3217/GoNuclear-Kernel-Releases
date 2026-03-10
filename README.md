@@ -1,4 +1,4 @@
-# GoNuclear Kernel
+# G☢️Nuclear Kernel
 
 ![ChatGPT Image Mar 9, 2026, 11_41_05 PM~2 jpg](https://github.com/user-attachments/assets/3387d97d-a196-4c73-aabf-836a93946cad)
 
