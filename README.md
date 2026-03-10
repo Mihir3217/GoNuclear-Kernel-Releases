@@ -1,7 +1,7 @@
 # GoNuclear Kernel
-![ChatGPT Image Mar 9, 2026, 11_41_05 PM jpg](https://github.com/user-attachments/assets/7c27e3e2-b8bc-4cfd-a75a-160222590c61)
 
-### ☢️ Highlights
+### ☢️ ![Uploading ChatGPT Image Mar 9, 2026, 11_41_05 PM.jpg.jpeg…]()
+Highlights
 * Battery-focused optimizations for longer screen-on time
 * Enhanced overall stability & performance
 * Better deep sleep idle drain
