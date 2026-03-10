@@ -7,7 +7,7 @@
 
 
 
-* Battery-focused optimizations for longer screen-on time
+* Battery-focused optimizations for better screen-on time
 * Enhanced overall stability & performance
 * Better deep sleep idle drain
 * Optimized power consumption
