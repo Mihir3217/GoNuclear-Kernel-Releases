@@ -20,4 +20,3 @@
 
 ---
 *Please refer to our Telegram Support Group for more info & questions.*
-*Flash via Any Kernel Manager (KernelSU, Magisk, Franco Kernel Manager).*
