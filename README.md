@@ -15,7 +15,7 @@
 * Optimized power consumption
 
 ### 📱 Supported Devices
-* STONE
+* STONE (Redmi Note 12 5g × Poco X5 5g)
 
 ### ⚙️ Supported ROMs
 * AOSP ROMS ONLY
