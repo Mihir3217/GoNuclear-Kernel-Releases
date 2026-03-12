@@ -1,6 +1,7 @@
 # G☢️Nuclear Kernel
 
-![GoNuclear Banner](https://image2url.com/r2/default/images/1773327474631-418b99bd-5576-4e46-a536-adc88a1fdc12.png)
+<img width="1536" height="768" alt="17733281331994800817939737647968" src="https://github.com/user-attachments/assets/7bc036b5-e535-4684-9ff6-d3511f81d7c2" />
+
 
 **[Download Kernel (Normal)](https://github.com/Mihir3217/GoNuclear-Kernel-Releases/releases/download/v1.0/GoNuclear_Kernel_Stone_v1.0.zip)**
 **[Download Kernel (KSU)](https://github.com/Mihir3217/GoNuclear-Kernel-Releases/releases/download/v1.0/GoNuclear_KSUN_Kernel_Stone_v1.0.zip)**
