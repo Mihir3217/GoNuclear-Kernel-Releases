@@ -14,7 +14,7 @@
 - Lazy RCU from Linux 6.6 for fewer wakeups.
 - ADIOS Custom IO Sched (Adaptive Deadline I/O Scheduler)
 - Google's New Boost patches
-- MGLRU from Linux 6.6 for smarter memory reclamation & smoother multitasking.
+- MGLRU from Linux 6.6 for smarter memory reclamation & multitasking.
 - Workqueues from Linux 6.6 for fast efficient background task handling.
 - Proportional newidle balance from Linux 6.6
 - Safer cpufreq invariance setup for stable frequency scaling under load
